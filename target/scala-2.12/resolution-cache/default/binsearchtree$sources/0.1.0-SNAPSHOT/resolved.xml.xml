@@ -4,7 +4,7 @@
 		module="binsearchtree$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180912141811"
+		publication="20180915155859"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
