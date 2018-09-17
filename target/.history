@@ -21,3 +21,9 @@ sbt
 run
 run file1.txt file2.txt
 exit
+run file1.txt file2.txt
+run
+run file1.txt file2.txt
+run
+run file1.txt file2.txt
+exit
